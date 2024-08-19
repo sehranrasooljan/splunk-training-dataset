@@ -1,7 +1,3 @@
-Here's a more visually attractive README with some markdown decorations:
-
----
-
 # 🎓 Splunk Training Repository
 
 Welcome to the **Splunk Training Repository**! This repository is designed to help you sharpen your Splunk skills with real-world datasets and visual aids.
