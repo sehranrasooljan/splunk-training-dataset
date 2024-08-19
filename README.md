@@ -20,4 +20,6 @@ This dataset was generously provided by **George Ntani** on Udemy. A huge thanks
 
 ---
 
-Feel free to explore the files, experiment with the data, and take your Splunk skills to the next level! Happy learning! 🚀
+Feel free to explore the files, experiment with the data, and take your Splunk skills to the next level!
+
+Happy learning! 
